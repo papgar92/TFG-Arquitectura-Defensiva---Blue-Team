@@ -26,9 +26,10 @@ El objetivo principal ha sido democratizar el uso de tecnologías de ciberseguri
 
 ## 🏗️ Arquitectura de la Red
 
+<!--
 *Puedes subir la imagen de tu diagrama de Cisco Packet Tracer (la que tienes en la página 13 de tu memoria) al repositorio y enlazarla aquí. Ejemplo:*
 `![Topología de Red](ruta-de-la-imagen-en-tu-repo.png)`
-
+--!>
 La red sigue una topología de estrella extendida segmentada en dos áreas principales:
 * **WAN (192.168.3.0/24):** Salida a internet gestionada mediante DHCP.
 * **LAN (192.168.1.0/24):** Red interna protegida por el firewall, donde residen las estaciones de trabajo y los servidores.
