@@ -1,4 +1,4 @@
-# 🛡️ Diseño e Implementación de Red Segura para PYME (Home Lab)
+# 🛡️ Diseño e Implementación de Red Segura para PYME (Blue Team Home Lab)
 
 **Autor:** Pablo Pérez  
 **Titulación:** CFGS Administración de Sistemas Informáticos en Red (ASIR)  
