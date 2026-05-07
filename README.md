@@ -15,7 +15,7 @@ Estos archivos demuestran la aplicación práctica de políticas de seguridad, s
 ### 🐧 Automatización y Despliegue (Linux)
 * **[`Snort_Deployment.sh`](./Snort_Deployment.sh)**: Script en Bash para la instalación semi-automatizada del Sistema de Detección de Intrusos (IDS).
   * *Destacado:* Preparación del sistema, integración de las *Community Rules* de Snort y generación de backups automáticos de las configuraciones por defecto.
-* **[`NagiosCore_Deployment.sh`](./NagiosCore_Deployment.sh)**: Script avanzado en Bash para el despliegue del nodo de monitorización (NOC).
+* **[`NagiosCore_Deployment.sh`](./NagiosCore_Deployment.sh)**: Script en Bash para el despliegue del nodo de monitorización (NOC).
   * *Destacado:* Compilación de la herramienta desde el código fuente (`make all`, `make install`), configuración del servidor web Apache con módulos CGI, instalación de plugins y securización del panel web mediante `.htpasswd`.
 
 ---
