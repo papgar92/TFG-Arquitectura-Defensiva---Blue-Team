@@ -26,10 +26,9 @@ El objetivo principal ha sido democratizar el uso de tecnologías de ciberseguri
 
 ## 🏗️ Arquitectura de la Red
 
-<!--
-*Puedes subir la imagen de tu diagrama de Cisco Packet Tracer (la que tienes en la página 13 de tu memoria) al repositorio y enlazarla aquí. Ejemplo:
---!>
-![Topología de Red](https://github.com/papgar92/TFG-Arquitectura-Defensiva---Blue-Team/blob/Resources/DiagramaCisco.jpg)
+### 🏗️ Topología de Red
+
+<img src="https://github.com/papgar92/TFG-Arquitectura-Defensiva---Blue-Team/blob/Resources/DiagramaCisco.jpg?raw=true" alt="Diagrama Cisco" width="100%" />
 
 La red sigue una topología de estrella extendida segmentada en dos áreas principales:
 * **WAN (192.168.3.0/24):** Salida a internet gestionada mediante DHCP.
@@ -48,7 +47,7 @@ Como complemento a la seguridad de hardware/software, el proyecto incluye un **p
 ## 📂 Archivos en este repositorio
 * `Memoria_TFG_Pablo_Perez.pdf`: Documentación técnica completa y manuales de instalación/usuario.
 * `Presentacion_Ciberseguridad.pptx`: Material de formación para empleados.
-* *(Opcional si lo tienes)* `Topologia_Red.pkt`: Archivo de simulación de Cisco Packet Tracer.
+* `Topologia_Red.pkt`: Archivo de simulación de Cisco Packet Tracer.
 
 ---
 *Este proyecto fue desarrollado en un entorno virtualizado controlado simulando condiciones y ataques reales para validar la robustez de las configuraciones aplicadas.*
