@@ -47,7 +47,7 @@ Como complemento a la seguridad de hardware/software, el proyecto incluye un **p
 
 ## 📂 Archivos en este repositorio
 
-* [`Memoria_TFG_Pablo_Perez.pdf`](https://drive.google.com/file/d/1ygLtmTYxONglrcKP8YnSM4oEUYcFhf-Z/view?usp=sharing): Documentación técnica completa y manuales de instalación/usuario.
+* [`Memoria_TFG.pdf`](https://drive.google.com/file/d/1ygLtmTYxONglrcKP8YnSM4oEUYcFhf-Z/view?usp=sharing): Documentación técnica completa y manuales de instalación/usuario.
 * [`Presentacion_Ciberseguridad.pptx`](https://github.com/papgar92/TFG-Arquitectura-Defensiva---Blue-Team/raw/Resources/Ciberseguridad_para_PYMEs.pptx): Material de formación para empleados.
 * [`Topologia_Red.pkt`](https://github.com/papgar92/TFG-Arquitectura-Defensiva---Blue-Team/raw/Resources/Topologia_Red.pkt): Archivo de simulación de Cisco Packet Tracer.
 
