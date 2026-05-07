@@ -1,6 +1,6 @@
 # ⚙️ Archivos de Configuración y Scripts de Despliegue
 
-Bienvenido a la rama `config files`. Aquí se almacenan las configuraciones en texto plano de los equipos de red (Cisco IOS / pfSense) y los scripts de automatización (Bash) utilizados para levantar la infraestructura del proyecto **Blue Team Home Lab**.
+Bienvenido a la rama `config files`. Aquí se almacenan las configuraciones en texto plano de los equipos de red y los scripts de automatización (Bash) utilizados para levantar la infraestructura del proyecto **Blue Team Home Lab**.
 
 Estos archivos demuestran la aplicación práctica de políticas de seguridad, segmentación de red y automatización en servidores Linux.
 
