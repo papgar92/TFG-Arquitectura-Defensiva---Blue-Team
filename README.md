@@ -58,7 +58,7 @@ Para ver el detalle técnico del despliegue, visita el branch **[`Config-files`]
 
 ### 📚 Documentación y Recursos
 * [`Memoria_TFG.pdf`](https://drive.google.com/file/d/1ygLtmTYxONglrcKP8YnSM4oEUYcFhf-Z/view?usp=sharing): Documentación técnica completa y manuales de instalación/usuario.
-* [`Presentacion_Ciberseguridad.pptx`](https://github.com/papgar92/TFG-Arquitectura-Defensiva---Blue-Team/raw/Resources/Ciberseguridad_para_PYMEs.pptx): Material de formación para empleados.
+* [`Presentacion_Ciberseguridad.pptx`](https://docs.google.com/presentation/d/1s0kaBFc0ZRwWM_u9rbKc2OjYTsw-AaIy/edit?usp=sharing&ouid=113796822556962696851&rtpof=true&sd=true): Material de formación en ciberseguridad para empleados.
 * [`Topologia_Red.pkt`](https://github.com/papgar92/TFG-Arquitectura-Defensiva---Blue-Team/raw/Resources/Topologia_Red.pkt): Archivo de simulación de Cisco Packet Tracer.
 
 ---
