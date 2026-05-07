@@ -28,6 +28,7 @@ El objetivo principal ha sido democratizar el uso de tecnologías de ciberseguri
 ## 🏗️ Arquitectura de la Red
 
 ### 🌐 Topología de Red
+Diseño de la topología mediante **Cisco Packet Tracer**:
 
 <img src="https://github.com/papgar92/TFG-Arquitectura-Defensiva---Blue-Team/blob/Resources/DiagramaCisco.jpg?raw=true" alt="Diagrama Cisco" width="100%" />
 
@@ -37,6 +38,7 @@ La red sigue una topología de estrella extendida segmentada en dos áreas princ
 
 ## 🚀 Implementación Técnica (Fases del Laboratorio)
 
+0. **Implementación software de virtualizacion:** Implementación y despliegue de **VirtualBox** como contenedor de las maquinas virtuales para simular nuestra infraestructura. Implementación de las VMs con sus respectivas interfaces de red y recursos requeridos. 
 1. **Seguridad Perimetral:** Despliegue de **pfSense** como router lógico y firewall. Configuración de reglas NAT, bloqueo de puertos críticos (SMB, RDP, FTP) y restricción de tráfico web malicioso/inseguro.
 2. **Directorio Activo:** Configuración de **Windows Server 2022** como controlador de dominio (`red.pyme`). Integración de terminales Windows 10 y sistemas Linux en entornos heterogéneos mediante protocolos SMB y Kerberos.
 3. **Sistema de Detección de Intrusos (IDS):** Implementación de **Snort** en **Ubuntu Server** configurado con reglas locales y comunitarias para la detección en tiempo real de escaneos de red, fuerza bruta e inyecciones SQL.
